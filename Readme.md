@@ -31,9 +31,9 @@ Build
 ## Docker File
 App Also havee docker file with which we can generate
 Docker image
-> docker build . -t myapp
-> docker run -p 8900:3000 myapp
-> Navigate to http://localhost:8900
+* docker build . -t myapp
+* docker run -p 8900:3000 myapp
+* Navigate to http://localhost:8900
 
 ## DeveloperLink
 > www.aakashhanda.me
